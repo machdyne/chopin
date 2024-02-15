@@ -2,6 +2,8 @@
 
 Chopin is a host board that when paired with a [Sechzig](https://github.com/machdyne/sechzig) compute module can function as a development board.
 
+![Chopin](https://github.com/machdyne/chopin/blob/b374ad0853522a5d13fe4f7f41c193577b9ff3f0/chopin.png)
+
 This repo contains schematics, PCB layouts, pinouts and documentation.
 
 Find more information on the [Chopin product page](https://machdyne.com/product/chopin-motherboard/).
