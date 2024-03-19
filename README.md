@@ -63,12 +63,12 @@ Chopin has an experimental SATA-style LVDS port. SATA is not supported.
 | 6 | DS1\_N |
 | 7 | GND |
 
+## Funding
+
+This project was partially funded through the NGI0 Entrust Fund, a fund established by NLnet with financial support from the European Commission's Next Generation Internet programme.
+
 ## License
 
-The contents of this repo are released under the [Lone Dynamics Open License](LICENSE.md) with the following exceptions:
-
-- The KiCad design files contain parts of the [kicad-pmod](https://github.com/mithro/kicad-pmod) library which is released under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
-
-- The KiCad design files may contain symbols and footprints released under other licenses; please contact us if we've failed to give proper attribution.
+This project is released under the [CERN-OHL-P](LICENSE.txt) license.
 
 Note: You can use these designs for commercial purposes but we ask that instead of producing exact clones, that you either replace our trademarks and logos with your own or add your own next to ours.
